@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!&fontSize=80" />
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=This+is+Isaac!;Welcome+to+my+homepage+o(%E2%89%A7v%E2%89%A6)o" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ae,ps,pr,c,arduino,qt,cpp,cmake,md,matlab,obsidian" />
+  </a>
+</p>
 
-<!--
-**IsaacZH/IsaacZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IsaacZH&count_private=true&theme=radical&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacZH&layout=compact&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
