@@ -10,12 +10,16 @@
 </p>
 
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IsaacZH&count_private=true&theme=radical&show_icons=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacZH&layout=compact&theme=radical" />
-</p>
+
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=IsaacZH&count_private=true&theme=radical&show_icons=true" width="45%"  />
 
 
+Welcome to my GitHub page, I am Isaac. I am a third-year student in Automation at Shenzhen University.
+#### 🔭 Things I am currently working on:
+- :rocket: Finish my bachelor's degree.
+- 🌱 Add an English documentation and restructure some projects I already did.
+- Taking courses about Automation.
+### :computer: Projects you might be interested in：
 
 
 
