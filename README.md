@@ -19,7 +19,6 @@ Welcome to my GitHub page, I am Isaac. I am a Master's student in Mechanical Eng
 #### 🔭 Things I am currently working on:
 - :rocket: Pursuing my Master's in Mechanical Engineering at NUS.
 - 🤖 Doing research in robotics.
-- 🌱 Add an English documentation and restructure some projects I already did.
 - Taking graduate courses in ME & robotics.
 ### :computer: Projects you might be interested in：
 
