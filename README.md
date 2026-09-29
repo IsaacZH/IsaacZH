@@ -6,8 +6,11 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ae,ps,pr,c,arduino,qt,cpp,cmake,md,matlab,obsidian" />
+    <img src="https://skillicons.dev/icons?i=ros,python,cpp,c,linux,ubuntu,cmake,qt,arduino,matlab,git,md,obsidian,ae,ps,pr&perline=8" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
 </p>
 
 
@@ -22,5 +25,9 @@ Welcome to my GitHub page, I am Isaac. I am a Master's student in Mechanical Eng
 - 📚 Taking graduate courses in ME & robotics.
 ### :computer: Projects you might be interested in：
 
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacZH/IsaacZH/output/github-snake-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/IsaacZH/IsaacZH/output/github-snake.svg" />
+  </picture>
+</p>
