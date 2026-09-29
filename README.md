@@ -12,14 +12,14 @@
 
 
 
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=IsaacZH&count_private=true&theme=radical&show_icons=true" width="45%"  />
+<img align="right" alt="GitHub streak" src="https://streak-stats.demolab.com?user=IsaacZH&theme=radical&hide_border=true" width="45%"  />
 
 
 Welcome to my GitHub page, I am Isaac. I am a Master's student in Mechanical Engineering at the National University of Singapore (NUS), doing research in robotics. I hold a background in Automation from Shenzhen University.
 #### 🔭 Things I am currently working on:
 - :rocket: Pursuing my Master's in Mechanical Engineering at NUS.
 - 🤖 Doing research in robotics.
-- Taking graduate courses in ME & robotics.
+- 📚 Taking graduate courses in ME & robotics.
 ### :computer: Projects you might be interested in：
 
 
